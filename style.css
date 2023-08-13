@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://res.cloudinary.com/dhdiwucld/image/upload/v1690361468/rocket-project_1_yb3eaj.png');
+    color: white;
+  }
+  .rockethead{
+    font-family: 'Julius Sans One', sans-serif;
+  }
+  .outfitFont{
+    font-family: 'Outfit', sans-serif;
+  }
+  p{
+    font-family: 'Poppins', sans-serif;
+  }
